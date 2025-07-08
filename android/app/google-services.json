@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841577672195",
+    "project_id": "mytop10store",
+    "storage_bucket": "mytop10store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841577672195:android:3b8d50671f6e8725902836",
+        "android_client_info": {
+          "package_name": "com.vini.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2KDdYYGjkmSB6Fu32lzmA8sCpNThRiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
